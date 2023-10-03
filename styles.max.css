@@ -107,6 +107,12 @@ main {
   /* border: 2px solid blue; */
 }
 
+.project-image img {
+  max-width: 1000px;
+  border-radius: 3px;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); */
+}
+
 .item-link {
   width: 70%;
 
